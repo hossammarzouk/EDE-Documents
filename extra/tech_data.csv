@@ -1,0 +1,17 @@
+﻿Sampling frequencies,"LF (64 Hz to 1024 Hz), HF (256 Hz to 4096 Hz)"
+Frequency range,DC to 2 kHz
+Number of channels,2
+Nominal input voltage range (@ gain 10),1.25 V
+System computer,Microcontroller
+Storage media,128 Gigabytes SSD
+A/D conversion,32 Bit
+Synchronization,"72 channels GNSS synchronized clock, accuracy +/-30ns rms accuracy of 1pps signal."
+Standard connectors,4 x E-field input female banana connector (signal and shield)
+,1 x GND terminal
+,1 x Battery input of 12 V
+,1 x Satellite antenna
+,1 x USB3.0 Type A for data storage
+,1 x USB Type B for developers only
+Power consumption, !
+Power Input,10 V to 15 V DC
+Operating temperature range,-20°C to + 50°C
